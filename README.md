@@ -6,8 +6,8 @@
 
 *Building things, solving problems, learning every day.*
 
-[![Absolute Cinema](https://img.shields.io/badge/PROJECT-ABSOLUTE_CINEMA-D08B67?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/jerogoodman/absolute-cinema-laravel)
-[![GitHub](https://img.shields.io/badge/GITHUB-jerogoodman-181717?style=for-the-badge&logo=github)](https://github.com/jerogoodman)
+![Profile Views](https://komarev.com/ghpvc/?username=jerogoodman&style=flat-square&color=D08B67)
+![GitHub followers](https://img.shields.io/github/followers/jerogoodman?style=flat-square&color=D08B67&label=Followers)
 
 </div>
 
@@ -15,34 +15,13 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-username: jerogoodman
-location: Indonesia
-currently_building: Absolute Cinema
-learning: Laravel, PHP, MySQL, JavaScript
-interests:
-  - Web Development
-  - UI Design
-  - Problem Solving
-favorite_series: Better Call Saul
-```
+- 💻 Aspiring web developer learning to build useful applications.
+- 🎬 Currently developing **Absolute Cinema**, a cinema ticket booking website using Laravel.
+- 🌱 Learning Laravel, PHP, MySQL, JavaScript, and Git.
+- 🔐 Interested in clean code, web security, and backend development.
+- ⚖️ *Better Call Saul* enthusiast. Every problem deserves a clever solution.
 
-- 🎬 Building **Absolute Cinema**, a cinema ticket booking website with Laravel.
-- 🌱 Learning backend development, databases, and secure authentication.
-- 🛠️ Interested in building useful applications and improving my coding skills.
-- ⚖️ A *Better Call Saul* fan. Sometimes, every problem needs a better solution.
-
-## 🚀 Featured Project
-
-<div align="center">
-
-[![Absolute Cinema](https://github-readme-stats.vercel.app/api/pin/?username=jerogoodman&repo=absolute-cinema-laravel&theme=github_dark&hide_border=true)](https://github.com/jerogoodman/absolute-cinema-laravel)
-
-</div>
-
-**Absolute Cinema** is a Laravel-based cinema website project focused on film listings, schedules, seat management, ticket reservations, and an admin dashboard.
-
-## 🧰 Tech Stack
+## 🧰 Technologies & Tools
 
 <div align="center">
 
@@ -62,25 +41,31 @@ favorite_series: Better Call Saul
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jerogoodman&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jerogoodman&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerogoodman&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerogoodman&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=jerogoodman&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
-## 📬 Connect With Me
+## 🎬 Beyond the Code
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-way.ne6769-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/way.ne6769)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardanwayne77@gmail.com)
-
-<br>
+**Favorite series:** Better Call Saul
 
 *“Better call Saul!”* ⚖️
 
-<sub>Learning one commit at a time.</sub>
+*Learning one commit at a time.*
+
+</div>
+
+---
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-way.ne6769-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/way.ne6769)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ardanwayne77@gmail.com)
 
 </div>
